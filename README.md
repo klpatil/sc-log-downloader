@@ -19,6 +19,5 @@ Locating log file on Scaled Azure PaaS instance [needs multiple steps](https://s
 - Access https://HOSTNAME/DIRECTORY/SCLD.aspx?authkey=YOURSECUREKEY
 
 **Quick Notes:**
-- You can also use this for Non PaaS environments. But I haven't tested it.
-- This tool should support Paas, Iaas environment. But I haven't tested it.
+- This tool should support PaaS, IaaS environments. But I haven't tested it.
 - Please report bug(s) using Github
