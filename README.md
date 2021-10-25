@@ -16,7 +16,7 @@ Locating log file on Scaled Azure PaaS instance [needs multiple steps](https://s
 - Download files from main branch
 - Change your Auth Key (You can use https://www.uuidgenerator.net/) and update **SCLD.aspx.cs**
 - Deploy it on your target Sitecore instance
-- Access http://<HOSTNAME>/<DIRECTORY>/SCLD.aspx?authkey=<YOURSECUREKEY>
+- Access https://HOSTNAME/DIRECTORY/SCLD.aspx?authkey=YOURSECUREKEY
 
 **Quick Notes:**
 - You can also use this for Non PaaS environments. But I haven't tested it.
